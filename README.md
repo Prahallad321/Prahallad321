@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prahallad Das</h1>
-<h3 align="center">Software Developer | AI & ML Enthusiast | Founder of NexaByte</h3>
+<h3 align="center">Software Developer | AI & ML Enthusiast | Founder & CEO NexaBytee, Founder & CEO DasKartAI</h3>
 
 ---
 
@@ -7,11 +7,11 @@
 
 I’m a passionate developer from India with a strong interest in **Web Development, Machine Learning, Artificial Intelligence, and Data Analytics**.  
 
-I focus on building real-world, scalable solutions and recently started my own software agency **NexaByte**.
+I focus on building real-world, scalable solutions and recently started my own software agency **NexaBytee**.
 
 ---
 
-## 🏢 My Software Agency — NexaByte
+## 🏢 My Software Agency — NexaBytee
 
 🌐 Website: https://nexabyte.daskartai.com/
 
