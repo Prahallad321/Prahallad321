@@ -1,20 +1,123 @@
-# -Prahallad321
 <h1 align="center">Hi 👋, I'm Prahallad Das</h1>
-<h3 align="center">A passionate Data Anlytics, Machine Learning, Artificial Intelligence, frontend developer from India</h3>
+<h3 align="center">Software Developer | AI & ML Enthusiast | Founder of NexaByte</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prahallad321&label=Profile%20views&color=0e75b6&style=flat" alt="prahallad321" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prahallad321" alt="prahallad321" /></a> </p>
+## 🚀 About Me
 
-- 🔭 I’m currently working on **Medicine Prediction**
+I’m a passionate developer from India with a strong interest in **Web Development, Machine Learning, Artificial Intelligence, and Data Analytics**.  
 
-- 🌱 I’m currently learning **Machine Learning, Artificial Intelligence**
+I focus on building real-world, scalable solutions and recently started my own software agency **NexaByte**.
 
-- 👯 I’m looking to collaborate on **Power BI Dashboard**
+---
 
-- 🤝 I’m looking for help with **E-Commerce Website**
+## 🏢 My Software Agency — NexaByte
 
-- 📫 How to reach me **Prahalladd613@gmail.com**
+🌐 Website: https://nexabyte.daskartai.com/
+
+**NexaByte** is a software agency dedicated to delivering modern, scalable, and user-friendly digital solutions.
+
+### 💡 Services:
+- Custom Software Development  
+- Web Development (Frontend + Backend)  
+- UI/UX Design  
+- AI Automation & AI Agents  
+- E-Commerce Solutions  
+- Digital Marketing  
+- Full Project Deployment  
+
+---
+
+## 🤖 My AI Platform — DasKartAI
+
+🌐 Platform: https://daskartai.com/
+
+**DasKartAI** is an advanced AI platform designed to bring multiple AI capabilities into one place.
+
+### 🔹 Features:
+- AI Chatbot (Smart Conversations)  
+- Image Generation  
+- Video Creation  
+- Smart Data Analysis  
+- Audio-to-Audio Conversion  
+
+This platform reflects my interest in building powerful AI-driven tools for real-world use.
+
+---
+
+## 🎯 First Project Delivery
+
+🌐 Project: https://jnvchirang.in/
+
+Successfully delivered the **JNV Chirang Alumni Association Website** 🎉  
+
+### 🔹 Key Features:
+- Alumni Networking Platform  
+- Modern & Responsive UI  
+- Alumni Directory & Events  
+- Collaboration & Community Features  
+
+This project marks the beginning of my journey as a developer and founder.
+
+---
+
+## 🌱 Currently Learning
+- Machine Learning  
+- Artificial Intelligence  
+- Advanced Web Development  
+
+---
+
+## 🤝 Looking to Collaborate On
+- AI/ML Projects  
+- Data Analytics & Dashboards  
+- Real-world Web Applications  
+
+---
+
+## 📫 Contact Me
+- Email: **Prahalladd613@gmail.com**  
+- LinkedIn: https://www.linkedin.com/in/prahalladdas  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+HTML, CSS, JavaScript, Java, Python  
+
+**Frameworks & Tools:**  
+React, Flask, Node.js, Bootstrap, Firebase  
+
+**Data & AI:**  
+Pandas, Scikit-learn, TensorFlow, OpenCV  
+
+**Database:**  
+MySQL, PostgreSQL  
+
+**Other Tools:**  
+Git, GitHub, AWS  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prahallad321&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prahallad321&layout=compact" />
+</p>
+
+---
+
+## 🔥 Vision
+
+To build impactful technology products through **NexaByte** and **DasKartAI**, combining software, AI, and automation to solve real-world problems.
+
+---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
