@@ -55,6 +55,8 @@ This platform reflects my interest in building powerful AI-driven tools for real
 ---
 
 ## 🤝 Looking to Collaborate On
+- AI Agent
+- AI Automation
 - AI/ML Projects  
 - Data Analytics & Dashboards  
 - Real-world Web Applications  
