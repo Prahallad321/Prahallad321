@@ -48,6 +48,8 @@ This platform reflects my interest in building powerful AI-driven tools for real
 
 
 ## 🌱 Currently Learning
+- AI Agent
+- AI Automation
 - Machine Learning  
 - Artificial Intelligence  
 - Advanced Web Development  
