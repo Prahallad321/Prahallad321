@@ -41,7 +41,6 @@ I focus on building real-world, scalable solutions and recently started my own s
 - Smart Data Analysis  
 - Audio-to-Audio Conversion  
 
-This platform reflects my interest in building powerful AI-driven tools for real-world use.
 
 ---
 
