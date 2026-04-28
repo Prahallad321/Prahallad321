@@ -82,7 +82,7 @@ React, Flask, Node.js, Bootstrap, Firebase
 GenAI, Agentic AI, AI Automation, AI Agent, Pandas, Scikit-learn, TensorFlow, OpenCV  
 
 **Database:**  
-MySQL, PostgreSQL  
+MySQL, PostgreSQL , MongoDB 
 
 **Other Tools:**  
 Git, GitHub, AWS  
