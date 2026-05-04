@@ -93,6 +93,6 @@ Git, GitHub, AWS
 
 ## 🔥 Vision
 
-To build impactful technology products through **NexaByte** and **DasKartAI**, combining software, AI, and automation to solve real-world problems.
+To build impactful technology products through **NexaBytee** and **DasKartAI**, combining software, AI, and automation to solve real-world problems.
 
 ---
