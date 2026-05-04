@@ -79,10 +79,10 @@ HTML, CSS, JavaScript, Java, Python
 React, Flask, Node.js, Bootstrap, Firebase  
 
 **Data & AI:**  
-GenAI, Agentic AI, AI Automation, AI Agent, Pandas, Scikit-learn, TensorFlow, OpenCV  
+Generative AI, Agentic AI, AI Automation, AI Agent, Pandas, Scikit-learn, TensorFlow, OpenCV  
 
 **Database:**  
-MySQL, PostgreSQL , MongoDB 
+MySQL, PostgreSQL , MongoDB, 
 
 **Other Tools:**  
 Git, GitHub, AWS  
